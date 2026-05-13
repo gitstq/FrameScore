@@ -1,0 +1,13 @@
+{
+  "name": "react-test-project",
+  "version": "1.0.0",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "eslint": "^8.45.0"
+  }
+}
